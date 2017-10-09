@@ -1,3 +1,6 @@
+/* O CSS foi estruturado em forma de utilities, de forma que cada classe tem como objetivo alterar apenas uma propriedade, facilitando a reutilização das classes*/
+
+
 .u-color-red {
 	color: '#e74c3c';
 }

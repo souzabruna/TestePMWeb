@@ -1,3 +1,6 @@
+//Javascript que ao ser executado no console modifica a página, executar preferencialmente um bloco de cada vez
+
+
 var navTop = document.getElementById('navTop');
     navTop.style.background = '#e74c3c';
 
